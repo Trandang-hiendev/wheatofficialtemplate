@@ -1,0 +1,6 @@
+{
+    "version":"Example2",
+    "before":"Example1",
+    "add":["abc"],
+    "remove":["xyz"]
+}

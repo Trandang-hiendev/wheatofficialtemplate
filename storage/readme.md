@@ -1,0 +1,1 @@
+# For template content in `gifsurl.json` `hoangdaophuongtay.json` `tarot_meaning.json` `thansohoc.json`, contact us!
